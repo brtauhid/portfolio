@@ -1,0 +1,48 @@
+.nav-link span {
+  color: #ff9900;
+}
+
+.hero-container p {
+  width: 550px;
+}
+
+#hero p span {
+  border-bottom: 3px solid #ffffff;
+  color: #ff9900;
+  font-weight: 900;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.resume .resume-title {
+  background: #ff9900;
+  padding: 10px;
+}
+
+.section-title {
+  padding-bottom: 0px;
+}
+
+.services .icon {
+  background: #ff9900;
+  border: 1px solid #ff9900;
+}
+
+.services .icon i {
+  color: #000;
+}
+
+.contact-p {
+  margin-bottom: 25px !important;
+  font-size: 25px;
+}
+
+.section-title p {
+  margin-bottom: 10px;
+}
+
+.contact {
+  padding-bottom: 0;
+}
