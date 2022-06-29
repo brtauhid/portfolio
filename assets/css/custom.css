@@ -46,3 +46,17 @@
 .contact {
   padding-bottom: 0;
 }
+
+section#resume,
+section#services,
+section#skills,
+section#facts,
+section#testimonials,
+section#contact,
+section#about {
+  padding: 30px 0;
+}
+
+section#skills {
+  padding: 30px;
+}
