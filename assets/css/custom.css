@@ -60,3 +60,11 @@ section#about {
 section#skills {
   padding: 30px;
 }
+
+.about-section .img-fluid {
+  border-radius: 50%;
+  border: 5px solid #999;
+  box-shadow: 2px 10px 12px -2px;
+  width: 80%;
+  margin-left: 10%;
+}
