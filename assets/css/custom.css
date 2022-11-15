@@ -36,7 +36,9 @@
     height: 50vh;
   }
   section#resume,
-  section#facts {
+  section#facts,
+  .fst-italic,
+  .about-section .row {
     padding: 30px 0;
     display: none;
   }
