@@ -2,13 +2,13 @@
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
-    margin-left: 37%;
+    text-align: center;
   }
 
   #hero p {
     color: #fff;
     margin-bottom: 50px;
-    font-size: 20px;
+    font-size: 15px;
     font-family: "Poppins", sans-serif;
     overflow: hidden;
     text-align: center;
