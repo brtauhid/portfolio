@@ -1,3 +1,23 @@
+@media (max-width: 768px) {
+  #hero h1 {
+    font-size: 28px;
+    line-height: 36px;
+    margin-left: 37%;
+  }
+
+  #hero p {
+    color: #fff;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    overflow: hidden;
+    text-align: center;
+    padding: 0 110px;
+    border-bottom: none;
+    line-height: 2;
+  }
+}
+
 .nav-link span {
   color: #ff9900;
 }
@@ -7,7 +27,7 @@
 }
 
 #hero p span {
-  border-bottom: 3px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
   color: #ff9900;
   font-weight: 900;
 }
